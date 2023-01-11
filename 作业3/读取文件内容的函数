@@ -1,1 +1,4 @@
-
+一、每次读取一行数据：fgets( )、fgetss( )、fgetcsv( )
+二、读取整个文件：readfile（）、fpassthru（）、file（）
+三、读取一个字符：fgetc（）
+四、读取任意长度：fread（）
